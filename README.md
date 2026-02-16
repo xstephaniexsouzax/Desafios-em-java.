@@ -1,0 +1,1 @@
+Estou aprendendo o básico de Java e comecei a utilizar o Java Swing. Nesse desafio simples, uma pessa precisa advinhar um número de 1 até 10. O sistema vai gerar um número aleatório nesse intervalo e o usúario terá apenas uma chance para acertar.
