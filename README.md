@@ -3,3 +3,6 @@ Estou aprendendo o básico de Java e comecei a utilizar o Java Swing. Nesse desa
 
 Desafio da equação do segundo grau: 
 Aplicação realizada em um curso básico de Java ministrada pelo curso em vídeo. A aplicação realiza o calculo de bascara utilizado os numeros que o usuário fornece e descreve se são raizes reais ou não. 
+
+Desafio do triângulo:
+O usuário digita o valor de a.b e c. Após isso, o programa identifica se, de acordo com os valores, poderia ser considerado um triângulo e qual o seu tipo.
